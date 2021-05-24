@@ -1,6 +1,23 @@
 {
-"facebook":true,
-"interstitial":"284963579641421_285499869587792",
-"banner":"284963579641421_286675482803564",
-"nativeBanner":"284963579641421_285500586254387"
+    "networks": {
+        "native": ["facebook"],
+        "banner": ["facebook"],
+        "interstitial": ["facebook"],
+        "nativebanner": ["facebook"],
+        "mediumrectangle": ["facebook"]
+    },
+    "facebook": {
+        "native": "IMG_16_9_LINK#303265411406781_303265711406751",
+        "banner": "IMG_16_9_LINK#303265411406781_303266031406719",
+        "interstitial": "IMG_16_9_LINK#303265411406781_303265554740100",
+        "nativebanner": "IMG_16_9_LINK#303265411406781_303265824740073",
+        "mediumrectangle": "IMG_16_9_LINK#303265411406781_303265931406729"
+    },
+    "admob": {
+        "publisher": "pub-3940256099942544",  
+        "banner": "ca-app-pub-3940256099942544/6300978111",
+        "interstitial": "ca-app-pub-3940256099942544/1033173712",
+        "largebanner": "ca-app-pub-3940256099942544/6300978111",
+        "mediumrectangle": "ca-app-pub-3940256099942544/6300978111"
+    }
 }
