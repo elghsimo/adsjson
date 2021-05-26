@@ -7,11 +7,11 @@
         "mediumrectangle": ["facebook"]
     },
     "facebook": {
-        "native": "IMG_16_9_LINK#303265411406781_303265711406751",
-        "banner": "IMG_16_9_LINK#303265411406781_303266031406719",
-        "interstitial": "IMG_16_9_LINK#303265411406781_303265554740100",
-        "nativebanner": "IMG_16_9_LINK#303265411406781_303265824740073",
-        "mediumrectangle": "IMG_16_9_LINK#303265411406781_303265931406729"
+        "native": "",
+        "banner": "",
+        "interstitial": "",
+        "nativebanner": "",
+        "mediumrectangle": ""
     },
     "admob": {
         "publisher": "pub-3940256099942544",  
